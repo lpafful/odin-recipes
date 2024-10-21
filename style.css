@@ -8,7 +8,7 @@ body {
 
 .wrapper {
     border: 2px solid blueviolet;
-    width: 20vw;
+    width: 400px;
     margin: auto;
     text-align: justify;
 }
