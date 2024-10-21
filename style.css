@@ -1,0 +1,46 @@
+/* style odin-recipes */
+body {
+    font-family: Arial, sans-serif, Serif, Tahoma;
+    text-align: center;
+    background-color: aliceblue;
+}
+/* The above adds a background colour, specifies font and aligns text to the center */
+
+.wrapper {
+    border: 2px solid blueviolet;
+    width: 20vw;
+    margin: auto;
+    text-align: justify;
+}
+
+/* The above is to wrap my opening remarks in a solid box */
+
+#center {
+    text-align: center;
+    font-size: 24px;
+}
+
+/* The above is unique to the home page Welcome message */
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+/* The above declarations are set for all images on the website */
+
+.main {
+    display: inline-block;
+    text-align: left;
+    margin-left: 450px;
+    margin-right: 300px;
+    line-height: 1.5;
+}
+
+/* The above is for all text on the individual recipe pages */
+
+.special {
+    list-style: none;
+}
+
+/* The above applies to unordered list in the individual recipe pages */
