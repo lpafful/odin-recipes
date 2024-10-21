@@ -32,8 +32,8 @@ img {
 .main {
     display: inline-block;
     text-align: left;
-    margin-left: 200px;
-    margin-right: 0px;
+    margin-left: 100px;
+    margin-right: 50px;
     line-height: 1.5;
 }
 
