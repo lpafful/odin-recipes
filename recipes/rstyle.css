@@ -13,11 +13,6 @@ html {
     padding: 0;
 }
 
-a:-webkit-any-link {
-    color: white;
-    cursor: grab;
-    text-decoration: none;
-}
 
 .header {
     color: maroon;
@@ -116,10 +111,9 @@ img {
 }
 
 .home {
-    border: 2px solid black;
+    border: 2px solid maroon;
     padding: 4px;
     margin: 0 auto;
-    background-color: maroon;
     text-align: center;
     width: 800px;
     font-size: 14px;
@@ -127,9 +121,4 @@ img {
     list-style: none;
     margin-bottom: 16px;
     margin-top: 16px;
-}
-
-.slink {
-    color: purple;
-    cursor: pointer;
 }
