@@ -109,16 +109,3 @@ img {
     list-style: none;
     margin-bottom: 16px;
 }
-
-.home {
-    border: 2px solid maroon;
-    padding: 4px;
-    margin: 0 auto;
-    text-align: center;
-    width: 800px;
-    font-size: 14px;
-    color:white;
-    list-style: none;
-    margin-bottom: 16px;
-    margin-top: 16px;
-}
